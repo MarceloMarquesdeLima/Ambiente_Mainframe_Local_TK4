@@ -1,5 +1,8 @@
 # Ambiente Mainframe TK4
 
+![image](https://github.com/MarceloMarquesdeLima/Ambiente_Mainframe_Local_TK4/assets/111276703/532d079a-c9ad-4a9f-9855-c574807ccc46)
+
+
 Sempre via necessidade de poder ter um ambiente para treinamento local com recursos de Mainframe e este será passo a passo rápido para configuração.
 
 Baixar o repositório que contém todos os arquivos necessários para o ambiente:
